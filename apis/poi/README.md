@@ -5,6 +5,8 @@
 
 ## Build the Application
 
+This comment was added to trigger the Docker build pipeline.
+
 ## Tests
 
 ### Running the unit tests
