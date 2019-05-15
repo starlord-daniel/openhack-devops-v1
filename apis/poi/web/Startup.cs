@@ -31,7 +31,7 @@ namespace poi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc()
-                .AddJsonOptions(options =>
+                
                 {
                     options.SerializerSettings.Formatting = Formatting.Indented;
                 });
